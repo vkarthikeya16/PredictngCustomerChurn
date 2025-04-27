@@ -1,0 +1,35 @@
+Churn Prediction Dashboard 🔮
+Predict and prevent customer churn in e-commerce using Machine Learning!
+
+This dashboard allows users to:
+
+Predict churn for a single customer
+
+Upload a batch of customers and analyze churn probability
+
+Visualize churn vs stay distribution
+
+Download batch predictions as CSV
+
+🚀 Live Demo
+👉 [Insert your Streamlit App Link here after deployment]
+
+🛠️ Built With
+Python 🐍
+
+Streamlit 🚀
+
+Scikit-learn ⚙️
+
+Plotly 📈
+
+Pandas 📊
+
+Joblib for model saving 📦
+
+📋 Features
+✅ Single Customer Churn Prediction
+✅ Batch Prediction from CSV
+✅ Live Churn Probability Gauge Meter
+✅ Animated Pie Charts and Confusion Matrix
+✅ Download Predictions

@@ -12,7 +12,7 @@ Visualize churn vs stay distribution
 Download batch predictions as CSV
 
 🚀 Live Demo
-👉 [Insert your Streamlit App Link here after deployment]
+👉 https://churnbuster.streamlit.app/
 
 🛠️ Built With
 Python 🐍
